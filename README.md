@@ -6,6 +6,13 @@
 # Azure Portal Configuration
 For this to excel file to work, You need to add the following collumns to the resource overview.
 
+> Name, \
+> Type,  \
+> Resource Group, \
+> Subscription, \
+> Location, \
+> Resource Type
+
 ![image](https://github.com/smoonlee/azure-migration-template/assets/22956963/5f3bda61-2df1-4404-bcb5-efd81d33035c)
 
 ## Download Resource Data
